@@ -1,0 +1,1 @@
+void safe(char *path);
